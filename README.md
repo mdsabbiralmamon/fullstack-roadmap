@@ -35,18 +35,19 @@ Here are some of the resources I will be using:
 
 ## Projects
 
-🟢 **Portfolio Website:** [A personal website showcasing my skills and projects.](https://sameon-cv.vercel.app/)
-🔴 **Todo App:** A full stack application for managing tasks.
-🔴 **E-commerce Platform:** A complete e-commerce website with payment integration.
-🔴 **Blog Platform:** A blog site with user authentication and content management.
+- 🟢 **Portfolio Website:** [A personal website showcasing my skills and projects.](https://sameon-cv.vercel.app/)
+- 🔴 **Todo App:** A full stack application for managing tasks.
+- 🔴 **E-commerce Platform:** A complete e-commerce website with payment integration.
+- 🔴 **Blog Platform:** A blog site with user authentication and content management.
 
 ## Milestones
 
 - **Q1 2025:** Complete front-end basics and start the first project.
-    &nbsp;&nbsp;&nbsp;&nbsp;🟡**HTML:** [🟡*Docs*](https://www.w3schools.com/html/html_intro.asp)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🟡*video*](https://www.youtube.com/watch?v=mJgBOIoGihA)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔴*Video*](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[🔴*Feed*](https://app.daily.dev/tags/html?ref=roadmapsh)
+    - 🟡**HTML:** 
+        - [🟡*Docs*](https://www.w3schools.com/html/html_intro.asp)
+        - [🟡*video*](https://www.youtube.com/watch?v=mJgBOIoGihA)
+        - [🔴*Video*](https://www.youtube.com/watch?v=pQN-pnXPaVg)
+        - [🔴*Feed*](https://app.daily.dev/tags/html?ref=roadmapsh)
 - **Q2 2025:** Dive into back-end technologies and build RESTful APIs.
 - **Q3 2025:** Integrate front-end with back-end and deploy first full stack project.
 - **Q4 2025:** Refine skills, contribute to open-source projects, and prepare for job applications.
