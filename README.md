@@ -45,7 +45,7 @@ Here are some of the resources I will be using:
 - **Q1 2025:** Complete front-end basics and start the first project.
     - 🟡**HTML:** 
         - [🟡*Docs*](https://www.w3schools.com/html/html_intro.asp)
-        - [🟡*video*](https://www.youtube.com/watch?v=mJgBOIoGihA)
+        - [🟢*video*](https://www.youtube.com/watch?v=mJgBOIoGihA)
         - [🔴*Video*](https://www.youtube.com/watch?v=pQN-pnXPaVg)
         - [🔴*Feed*](https://app.daily.dev/tags/html?ref=roadmapsh)
 - **Q2 2025:** Dive into back-end technologies and build RESTful APIs.
