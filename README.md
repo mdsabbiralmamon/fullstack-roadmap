@@ -47,7 +47,10 @@ Here are some of the resources I will be using:
         - [🟡*Docs*](https://www.w3schools.com/html/html_intro.asp)
         - [🟢*video*](https://www.youtube.com/watch?v=mJgBOIoGihA)
         - [🔴*Video*](https://www.youtube.com/watch?v=pQN-pnXPaVg)
-        - [🔴*Feed*](https://app.daily.dev/tags/html?ref=roadmapsh)
+        - [🟢*Feed*](https://app.daily.dev/tags/html?ref=roadmapsh)
+        - **Projects:** 
+            - [🟢*Single Page CV*](https://roadmap.sh/projects/single-page-cv) >> [🟢*Solution Repo*](https://github.com/mdsabbiralmamon/fullstack-roadmap/tree/main/Projects/FrontEnd/singlePageCV)
+        
 - **Q2 2025:** Dive into back-end technologies and build RESTful APIs.
 - **Q3 2025:** Integrate front-end with back-end and deploy first full stack project.
 - **Q4 2025:** Refine skills, contribute to open-source projects, and prepare for job applications.
