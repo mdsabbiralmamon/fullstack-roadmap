@@ -6,6 +6,8 @@ This project is designed to teach you how to create a clean and structured singl
 
 ## **Project Overview**
 
+### Project URL : https://roadmap.sh/projects/single-page-cv
+
 Your task is to create a single-page CV that includes:
 - **Education Section**: Display your academic background.
 - **Skills Section**: Highlight your key skills.
